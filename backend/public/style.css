@@ -1,0 +1,32 @@
+
+body {
+    font-family: Arial, sans-serif;
+  }
+  
+  h1 {
+    color: #333;
+  }
+  
+  form {
+    max-width: 500px;
+    margin: auto;
+  }
+  
+  input[type="text"], input[type="file"], textarea {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 10px;
+  }
+  
+  button {
+    padding: 10px 20px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+  }
+  
+  a {
+    color: #007BFF;
+    text-decoration: none;
+  }
+  
